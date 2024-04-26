@@ -11,7 +11,7 @@ spec:
     path: '.'
   destination:
     server: 'https://kubernetes.default.svc'
-    namespace: 'my-namespace'
+    namespace: 'my-namespace-dmytro-ivanov'
   syncPolicy:
     automated:
       selfHeal: true
